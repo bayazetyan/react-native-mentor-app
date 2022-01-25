@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "405668180913",
+    "project_id": "mentorx-25a1f",
+    "storage_bucket": "mentorx-25a1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405668180913:android:df307474ba9fb944944390",
+        "android_client_info": {
+          "package_name": "com.mentorx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405668180913-qumnc9160at5ths1nhglliqulmcpfl6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtpBruthj5aSLGbNJIvMr3WGHv3Xohtsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405668180913-qumnc9160at5ths1nhglliqulmcpfl6e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405668180913-srioaev9r23cmphmgo63uj3l0vhpc9q9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mentorx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

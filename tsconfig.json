@@ -1,0 +1,27 @@
+
+{
+  "compilerOptions": {
+    "paths": {
+      "src": ["./src"]
+    },
+    "lib": ["es6"],
+    "noEmit": true,
+    "strict": true,
+    "baseUrl": "./",
+    "module": "ES2020",
+    "allowJs": true,
+    "target": "esnext",
+    "jsx": "react-native",
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "typeRoots": [ "./src/types", "./node_modules/@types"]
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": [
+    "node_modules", "babel.config.js", "metro.config.js", "jest.config.js"
+  ]
+}
